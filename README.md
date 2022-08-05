@@ -1,3 +1,3 @@
 # portfolio
 This is my personal career portfolio
-This portfolio has since been revamped completely - as seen in 'gellysportifolio'
+Disregard this 'portfolio' and refer to the repo named 'gellysportifolio'
